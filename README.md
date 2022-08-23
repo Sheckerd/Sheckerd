@@ -4,7 +4,7 @@
 
 <img src="https://devducks.com/static/devducks/imgs/php-duck.jpg" align="right">
 
-- 🔭 I’m currently working on **Epidata Co.**
+- 🔭 I’m currently working in **Epidata Co.**
 
 - 🌱 I’m currently learning **Laravel - Advanced PHP**
 
